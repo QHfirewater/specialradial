@@ -7,7 +7,7 @@
 @Description: In User Settings Edit
 @FilePath: /VisualData/windrose.py
 '''
-#终身大事多福多寿
+#终多寿
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
